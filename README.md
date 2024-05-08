@@ -1,2 +1,3 @@
-﻿# PlayGround
-This is just a learning environment for playing around with weird APIs
+﻿# Stock Market Analysis
+Playing around with some stock apis
+Made a pretty effective passive trading algorithm using analyst buy & sell ratings. 

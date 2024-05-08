@@ -44,5 +44,5 @@ while True:
          
          
 
-    time.sleep(40)
+    time.sleep(20)
 
